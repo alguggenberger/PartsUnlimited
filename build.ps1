@@ -7,7 +7,7 @@ Param(
 
 $ErrorActionPreference = "Stop"
 
-#test2
+#test3
 #$solution = Join-Path $BuildDir "PartsUnlimited.sln"
 #$webSiteDir = Join-Path $BuildDir "src\PartsUnlimitedWebSite"
 #$testDir = Join-Path $BuildDir "test\PartsUnlimited.UnitTests"
